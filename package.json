@@ -1,6 +1,6 @@
 {
   "name": "uimhreacha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns digits into Irish numbers",
   "main": "index.ts",
   "scripts": {
