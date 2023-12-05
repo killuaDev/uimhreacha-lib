@@ -1,0 +1,17 @@
+{
+  "name": "uimhreacha",
+  "version": "1.0.0",
+  "description": "Turns digits into Irish numbers",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "irish",
+    "gaeilge",
+    "uimhreacha",
+    "numbers"
+  ],
+  "author": "",
+  "license": "ISC"
+}
